@@ -11,8 +11,6 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-
 ## Installation
 
 1. Add the latest version of package to pubspec.yaml
