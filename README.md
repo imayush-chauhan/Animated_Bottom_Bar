@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-<img src="https://raw.githubusercontent.com/imayush-chauhan/Animated_Bottom_Bar/master/screenshot/image.gif" >
+<img src="https://raw.githubusercontent.com/imayush-chauhan/Animated_Bottom_Bar/master/screenshot/image.gif" width="320" height="430" >
 
 ## Installation
 
